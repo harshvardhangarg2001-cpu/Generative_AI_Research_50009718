@@ -1,4 +1,4 @@
-# REIT6811_App6
+# Generative_AI_Research_50009718
 REIT6811 Applied Class 6 Group 1
 
 Research project: **"Using Generative AI Tools - Boon or Bane"**
