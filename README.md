@@ -30,7 +30,7 @@ YYYYMMDD_NAME_V
 Where V is the version number. An example is below:
 
 ```
-20260914_Draft_0
+20260912_Draft_0
 ```
 
 Dating files this way means they sort chronologically rather than
